@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: c99a8b6334a0de94ab9745d1400af7f1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: new character sprite sheet
+    21300002: new character sprite sheet_0
+    21300004: new character sprite sheet_1
+    21300006: new character sprite sheet_2
+    21300008: new character sprite sheet_3
+    21300010: new character sprite sheet_4
+    21300012: new character sprite sheet_5
+    21300014: new character sprite sheet_6
+    21300016: new character sprite sheet_7
+    21300018: new character sprite sheet_8
+    21300020: new character sprite sheet_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: new character sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 364
+        width: 210
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 367
+        width: 226
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 353
+        width: 235
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 344
+        width: 194
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 335
+        width: 204
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 208
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 15
+        width: 235
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 19
+        width: 241
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 211
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new character sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 15
+        width: 208
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
